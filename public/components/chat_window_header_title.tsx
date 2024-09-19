@@ -29,7 +29,7 @@ export const ChatWindowHeaderTitle = React.memo(() => {
   const [isSaveNotebookModalOpen, setSaveNotebookModalOpen] = useState(false);
   const { chatState } = useChatState();
   const { saveChat } = useSaveChat();
-  const displayTitle = chatContext.conversationId ? chatContext.title : 'OpenSearch Assistant';
+  const displayTitle = chatContext.conversationId ? chatContext.title : 'invinsense Assistant';
 
   const onButtonClick = useCallback(() => {
     setPopoverOpen((flag) => !flag);

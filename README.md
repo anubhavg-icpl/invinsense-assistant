@@ -14,7 +14,7 @@
 
 # OpenSearch Assistant Dashboards
 
-The OpenSearch Assistant Dashboards plugin lets you have an opensearch assistant to help dashboards users use OpenSearch.
+The OpenSearch Assistant Dashboards plugin lets you have an OpenSearch Assistant to help dashboards users use OpenSearch.
 
 ## How to get started
 

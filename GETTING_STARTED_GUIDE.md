@@ -1,7 +1,7 @@
 ## Getting started guide
 
 ### How to run assistant on your own machine
-Below are the set of steps to run OpenSearch and OpenSearch dashboards with the OpenSearch assistant and the query generation functionality in the Observability Log Explorer page correctly on the cluster.
+Below are the set of steps to run OpenSearch and OpenSearch dashboards with the OpenSearch Assistant and the query generation functionality in the Observability Log Explorer page correctly on the cluster.
 
 1. Setup a 2.12+ OpenSearch cluster with OpenSearch Dashboards by following the options here: https://opensearch.org/docs/latest/install-and-configure/
    1. Note: If you are using a min distribution, there are required OpenSearch and OpenSearch Dashboards plugin to run the assistant.
